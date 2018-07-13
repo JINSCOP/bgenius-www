@@ -17,14 +17,14 @@ module.exports = {
      ** Customize the progress bar color
      */
     loading: { color: '#3B8070' },
-    css: [
-        // Load a Node.js module directly (here it's a Sass file)
-        'bulma',
-        // CSS file in the project
-        '@/assets/css/main.css',
-        // SCSS file in the project
-        '@/assets/css/main.scss'
-    ],
+    // css: [
+    //     // Load a Node.js module directly (here it's a Sass file)
+    //     'bulma',
+    //     // CSS file in the project
+    //     '@/assets/css/main.css',
+    //     // SCSS file in the project
+    //     '@/assets/css/main.scss'
+    // ],
     /*
      ** Build configuration
      */
